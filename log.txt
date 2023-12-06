@@ -1,0 +1,90 @@
+commit 7491903cf5e4dbe2e397cc0646ac827cacf9951e
+Merge: 9343787 ac14bd4
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Tue Dec 5 17:10:18 2023 -0600
+
+    Merge branch 'cabecera'
+
+commit 9343787281d41bbdf0b2060dee768b13234404f2
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Tue Dec 5 16:53:37 2023 -0600
+
+    Al master se le agregó un nuevo párrafo
+
+commit ac14bd4a2a82f06e8d9380d8efb384255b6fb653
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Tue Dec 5 16:49:32 2023 -0600
+
+    Finalizada la cabecera de color azul
+
+commit 796073fc09bf118606642533dab136c9722a520a
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Tue Dec 5 16:05:23 2023 -0600
+
+    Estructura inicial de la cabecera
+
+commit bae4e66716b4b96aa8b90cf18cde0526e16daed7
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Tue Dec 5 15:57:23 2023 -0600
+
+    Commit al master del blogpost a su versión más reciente
+
+commit 1e1e48cc2f9c908b81572865bdb5e5da12986ad8
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Mon Dec 4 23:34:50 2023 -0600
+
+    1
+
+commit 2ac0fa8b174f38d03a3c39e49a261368757d6734
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Mon Dec 4 23:12:47 2023 -0600
+
+    Css correcto
+
+commit 6a7fac92e34122fc2e0285305f36a9bdc7970654
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Mon Dec 4 22:13:13 2023 -0600
+
+    Prueba para papa
+
+commit 79ee7aab677daf56736b32c0ccf6cefb416945b1
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Mon Dec 4 20:32:32 2023 -0600
+
+    Obra maestra
+
+commit c1adc51de504d5441a7fdb6e0d14041115fb25a9
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Mon Dec 4 20:31:55 2023 -0600
+
+    Cambio de vida
+
+commit 8fac772f6faaaf4f6b737d929d5c21739bc11620
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Mon Dec 4 20:30:50 2023 -0600
+
+    Se agregó un color al CSS
+
+commit a519483a8b55130b0cc9b5c6f3a0ff1f898b515b
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Mon Dec 4 20:25:03 2023 -0600
+
+    Se le realizaron cambios al HTML y se le agrego al CSS un estilo
+
+commit 3ca44d99bd3f0322437ad7e71fb8696f298e3ddc
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Mon Dec 4 20:22:18 2023 -0600
+
+    CSS agregado
+
+commit 2b9d59a6999235e920eb9d0bd9a7858fe1619da8
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Mon Dec 4 20:18:58 2023 -0600
+
+    Primer HTML
+
+commit e1822e16e9daf7cff51a6e324227824078f9d7fc
+Author: Alvaro Mosqueda <almos41294@gmail.com>
+Date:   Fri Dec 1 12:48:34 2023 -0600
+
+    Este es mi primer mensaje
