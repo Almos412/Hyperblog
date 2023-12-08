@@ -25,6 +25,18 @@ body{
     padding: 0.5cm;
 }
 
+#footer{
+    display: flex;
+    background: grey;
+    color: white;
+    font-size: medium;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowr
+
+}
+
  #tagline{
     padding: 0 0 0 1cm;
     font-weight: normal;
